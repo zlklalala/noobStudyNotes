@@ -25,7 +25,7 @@ Vue.js是一套构建用户界面的框架，**只关心视图层** ，易于上
 - 框架是一套完美的解决方案；对项目的入侵性较大，项目如果需要更新框架，则需要重新架构整个项目；
 - 库（插件）提供一个小功能，对项目的侵入性较小，如果某个库无法满足某些需求，可以很容易切换到其他库实现需求；
 
- ![mvc和mvvm]（https://github.com/zlklalala/noobStudyNotes/blob/master/vue%E7%AC%94%E8%AE%B0/img/mvc%E5%92%8Cmvvm%E7%9A%84%E8%81%94%E7%B3%BB.png） 
+ ![mvc和mvvm](https://github.com/zlklalala/noobStudyNotes/blob/master/vue%E7%AC%94%E8%AE%B0/img/mvc%E5%92%8Cmvvm%E7%9A%84%E8%81%94%E7%B3%BB.png) 
 
 #### 
 
